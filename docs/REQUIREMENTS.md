@@ -200,5 +200,5 @@ Verified by the Developers.
 
 | Role | Name | Shared on | Reviewed |
 | --- | --- | --- | --- |
-| PM | [name] | [date] | [yes / no] |
+| PM | Syed Raees Hussain | 09/08/2026 | yes |
 | UX Designer | Maxwell Taylor | 08/08/2026 | yes |

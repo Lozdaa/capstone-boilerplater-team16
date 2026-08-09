@@ -15,5 +15,5 @@ The next person, BA, should know that some assumptions and creative liberties we
 
 | Role | Name | Shared on | Reviewed |
 | --- | --- | --- | --- |
-| PM | [name] | [date] | [yes / no] |
+| PM | Syed Raees Hussain | 9/8/2026 | yes |
 | BA | Imas Imthiyas | 9/8/2026 | yes |
