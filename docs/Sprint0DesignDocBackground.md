@@ -16,4 +16,4 @@ The next person, BA, should know that some assumptions and creative liberties we
 | Role | Name | Shared on | Reviewed |
 | --- | --- | --- | --- |
 | PM | [name] | [date] | [yes / no] |
-| BA | [name] | [date] | [yes / no] |
+| BA | Imas Imthiyas | 9/8/2026 | yes |
