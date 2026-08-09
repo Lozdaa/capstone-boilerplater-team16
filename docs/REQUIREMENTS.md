@@ -198,4 +198,4 @@ Verified by the Developers.
 | Role | Name | Shared on | Reviewed |
 | --- | --- | --- | --- |
 | PM | [name] | [date] | [yes / no] |
-| UX Designer | [name] | [date] | [yes / no] |
+| UX Designer | Maxwell Taylor | 08/08/2026 | yes |
