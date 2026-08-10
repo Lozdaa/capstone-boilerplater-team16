@@ -10,7 +10,7 @@ export function MemberCard({ member }: { member: TeamMember }) {
 
   return (
     <div className="flex min-h-[220px] flex-col rounded-lg bg-brand-500 p-6 shadow-sm">
-      <div className="flex items-center gap-4">
+      <div className="flex items-center gap-4 rounded-md bg-brand-600 p-3">
         <div className="flex size-14 shrink-0 items-center justify-center overflow-hidden rounded-md bg-white">
           {showPhoto ? (
             <img
