@@ -12,5 +12,5 @@ Some changes were clarified with UX Designer just to make sure
 | Role | Name | Shared on | Reviewed |
 | --- | --- | --- | --- |
 | PM | [name] | [date] | [yes / no] |
-| BA | [name] | [date] | [yes / no] |
+| BA | Imas Imthiyas | 10/8/2026 | yes |
 | UX | [name] | [date] | [yes / no] |
