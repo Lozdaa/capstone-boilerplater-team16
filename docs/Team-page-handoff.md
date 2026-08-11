@@ -24,4 +24,4 @@
 | --- | --- | --- |
 | PM | Syed Raees Hussain | |
 | UX Designer | Maxwell Taylor | |
-| BA | Imas Imthiyas | |
+| BA | Imas Imthiyas | yes |
