@@ -22,6 +22,6 @@
 
 | Role | Name | Reviewed |
 | --- | --- | --- |
-| PM | Syed Raees Hussain | |
+| PM | Syed Raees Hussain | yes |
 | UX Designer | Maxwell Taylor | yes |
 | BA | Imas Imthiyas | yes |
