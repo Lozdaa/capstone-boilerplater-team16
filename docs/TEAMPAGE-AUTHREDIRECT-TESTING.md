@@ -23,4 +23,4 @@ Tested by: Marceline Andreopoulos
 | Role | Name | Shared on | Reviewed |
 | --- | --- | --- | --- |
 | PM | [name] | [date] | [yes / no] |
-| DEV | [name] | [date] | [yes / no] |
+| DEV | Arnav | 15/08/2026 | yes |
