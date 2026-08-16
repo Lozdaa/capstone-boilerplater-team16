@@ -14,6 +14,12 @@ overrides:
   postcss: '^8.5.18'
   # next also bundles an old sharp (image optimization) — force the patched line.
   sharp: '^0.35.0'
+  # eslint > @eslint/eslintrc pulls js-yaml 4.3.0; CVE-2026-59870 backport
+  # landed in 4.3.1. Lint-time only, but the audit gate is severity-based.
+  js-yaml: '^4.3.1'
+  # postcss 8.5.x depends on nanoid ^3.3.11, which resolves to 3.3.16.
+  # Patched in 3.3.18.
+  nanoid: '^3.3.18'
 
 allowBuilds:
   '@firebase/util': true
