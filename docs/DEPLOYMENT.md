@@ -9,4 +9,4 @@ I can login then get redirected to the team page and get no load errors when cre
 | Role | Name | Shared on | Reviewed |
 | --- | --- | --- | --- |
 | PM | [name] | [date] | [yes / no] |
-| DEV | [name] | [date] | [yes / no] |
+| DEV | Arnav | 16/08/2026 | yes  |

@@ -14,4 +14,4 @@ Done by Marceline Andreopoulos on the Deployed Website
 | Role | Name | Shared on | Reviewed |
 | --- | --- | --- | --- |
 | PM | [name] | [date] | [yes / no] |
-| DEV | [name] | [date] | [yes / no] |
+| DEV | Arnav | 16/08/2026 | yes  |
